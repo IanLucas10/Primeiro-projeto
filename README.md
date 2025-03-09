@@ -1,9 +1,6 @@
 # Primeiro projeto
  Primeiro repositório
- 
- Ian
- 
- add a palavra ian no app
+ Tentando aprender HTLM e CSS
 
- mais uma alteração
+ vamos!
  
