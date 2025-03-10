@@ -4,6 +4,8 @@
 
  **vamos!**
 ***
-**# METAS**
+**METAS**
+- [ ] Aprender a mexer no Git e GitHub
+
 
  
