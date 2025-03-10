@@ -2,7 +2,7 @@
 
  _**Tentando aprender HTLM e CSS...**_
 
- **vamos!**
+ **vamos!** 🙏🏻
 ***
 **METAS**
 - [ ] Aprender a mexer no Git e GitHub
